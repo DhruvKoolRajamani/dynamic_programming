@@ -1,0 +1,25 @@
+/**
+@mainpage This page contains homeworks for Dhruv Kool Rajamani.
+
+@section hw_7 Homework 7 - Dynamic Programming
+@subsection code Running the code
+
+@par In order to run the code, download this file and cd into the base path. Each problem number can be selected by replacing the id tag.
+
+@verbatim
+$ mkdir build && cd build
+$ cmake ../
+$ make -j8
+$ cd hw7
+$ ls
+$ ./hw7_problem_{id}
+@endverbatim
+
+@subsection problem_1 Problem 1 
+
+problem_1.cpp
+
+@p The output for this problem can be seen in the image below
+@image hw7_problem_1_output.png
+
+*/
